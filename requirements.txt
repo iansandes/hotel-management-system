@@ -1,0 +1,4 @@
+Django==3.1.4
+django-phonenumber-field[phonenumbers]
+flake8==6.1.0
+black==23.10.1
